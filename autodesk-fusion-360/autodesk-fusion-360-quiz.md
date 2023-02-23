@@ -23,16 +23,12 @@
 
 #### Q4. How many holes were used in the making of this object?
 
-![image](https://user-images.githubusercontent.com/31204774/130909206-ca109121-ea9b-451c-9099-57cb7724e5b8.png)
+![image](images/question_4.png?raw=true)
 
 - [x] 1
 - [ ] 2
 - [ ] 3
 - [ ] 4
-- [ ] 5
-- [ ] 6
-- [ ] 7
-- [ ] 8
 
 #### Q5. In simulation, which constraint prevents movement in a specific direction?
 
@@ -43,7 +39,7 @@
 
 #### Q6. In the CAM workspace, which strategy removes a part's interior cavity?
 
-- [ ] Slot
+- [x] Slot
 - [ ] 2D Pocket
 - [ ] Bore
 - [ ] 2D Contour
@@ -52,7 +48,7 @@
 
 - [ ] It applies a metal render.
 - [ ] It fixes bodies.
-- [ ] It checks a body's continuity.
+- [x] It checks a body's continuity.
 - [ ] It splits bodies apart.
 
 #### Q8. Which command creates a plane at the midpoint between two faces or work planes?
@@ -115,7 +111,7 @@
 
 - [ ] Lock
 - [ ] Animate Joint
-- [ ] Animate Model
+- [x] Animate Model
 - [ ] Motion Link
 
 #### Q17. What translator converts the screen toolpath into language the CNC machine understands?
@@ -198,7 +194,7 @@
 
 #### Q28. How many sketches are required to create this object?
 
-![image](https://github.com/101br03k/linkedin-skill-assessments-quizzes/blob/patch-4/autodesk-fusion-360/images/001.png)
+![image](images/question_28.png?raw=png)
 
 - [x] Two
 - [ ] Three
@@ -267,3 +263,11 @@
 - [ ] Plastic
 - [ ] Wood
 - [ ] Metal
+
+#### Q37. What do the red locks shown on these sketch icons represent?
+
+- [ ] The sketches are under-constrained.
+- [ ] The sketches are fullv constrained.
+- [ ] The sketches cannot be edited.
+- [x] The sketches are locked.
+
